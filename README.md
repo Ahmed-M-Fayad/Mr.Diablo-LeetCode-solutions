@@ -1,8 +1,8 @@
-# LeetCode Solutions - Whales
+# LeetCode Solutions - Mr Diablo
 
-Welcome to **Whales' LeetCode Solutions Repository**. This is where we tackle coding challenges, share knowledge, and work towards improving our problem-solving skills. Whether you're solving simple problems or more complex ones, we aim to grow and level up together.
+Welcome to **Mr Diablo's LeetCode Solutions Repository**. This is where I tackle coding challenges, share knowledge, and work towards improving my problem-solving skills. Whether solving simple problems or more complex ones, the goal is to grow and level up in understanding algorithms and data structures.
 
-Let's dive in and continue improving our understanding of algorithms and data structures!
+Let's dive in and continue improving!
 
 ---
 
@@ -40,11 +40,7 @@ Let's dive in and continue improving our understanding of algorithms and data st
 
 ---
 
-## How to Contribute
-- Clone the repository, solve problems, and submit a pull request with your notebook.
-- Review other pull requests to help improve solutions and provide feedback.
+## Ready to Get Started?
+Start solving problems, contribute your solutions, and let’s improve together. Every submission brings me closer to mastering coding challenges and algorithms.
 
 ---
-
-## Ready to Get Started?
-Start solving problems, contribute your solutions, and let's improve together. Every submission brings us closer to mastering coding challenges and algorithms.
